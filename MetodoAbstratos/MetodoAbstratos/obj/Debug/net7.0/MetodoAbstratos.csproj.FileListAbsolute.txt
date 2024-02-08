@@ -1,0 +1,14 @@
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\bin\Debug\net7.0\MetodoAbstratos.exe
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\bin\Debug\net7.0\MetodoAbstratos.deps.json
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\bin\Debug\net7.0\MetodoAbstratos.runtimeconfig.json
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\bin\Debug\net7.0\MetodoAbstratos.dll
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\bin\Debug\net7.0\MetodoAbstratos.pdb
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.AssemblyInfoInputs.cache
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.AssemblyInfo.cs
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.csproj.CoreCompileInputs.cache
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.dll
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\refint\MetodoAbstratos.dll
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.pdb
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\MetodoAbstratos.genruntimeconfig.cache
+C:\C# - AbstractClass\MetodoAbstratos\MetodoAbstratos\obj\Debug\net7.0\ref\MetodoAbstratos.dll
